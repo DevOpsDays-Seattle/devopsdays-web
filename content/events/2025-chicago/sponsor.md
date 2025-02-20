@@ -14,7 +14,6 @@ Platinum and Gold sponsors get a full table in the sponsor area where they can i
 The best thing to do is send engineers to interact with the experts at DevOpsDays Chicago on their own terms.
 
 <h2>Sponsorship Packages</h2>
-<i>All Platinum, Gold, and Bronze sponsorships paid before September 13th receive a $1000 discount</i> 
 <p>
 <p>
 
@@ -31,9 +30,9 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <tbody>
     <tr>
       <td>Price</td>
-      <td><strike>$10,000</strike> $9000</td>
-      <td><strike>$6,000</strike> $5000</td>
-      <td><strike>$2,000</strike> $1000</td>
+      <td>$10,000</td>
+      <td>$6,000</td>
+      <td>$2,000</td>
       <td>Free</td>
     </tr>
     <tr>
@@ -47,10 +46,10 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LUSEMWLZ7MKKW"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"></a></td>
-      <td><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=S9SCLZP3USU7L"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"></a></td>
+      <td><a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Platinum%20Sponsorship%20DevOpsDays%20Chicago%202025">Contact us</a></td>
+      <td><a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Gold%20Sponsorship%20DevOpsDays%20Chicago%202025">Contact us</a></td>
       <td><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DDXAP9S3324DC"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"></a></td>
-      <td><a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Chicago%202023">Contact us</a>
+      <td><a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Chicago%202025">Contact us</a>
       </td>
     </tr>
     <tr>
